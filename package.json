@@ -1,0 +1,19 @@
+{
+    "name": "wddemo",
+    "version": "1.0.0",
+    "description": "A nodejs project",
+    "main": "index.js",
+    "_mitan": true,
+    "_mitanType": "nodeReact",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "creator": "zhaojian &lt;745984265@qq.com&gt;",
+    "license": "ISC",
+    "dependencies": {
+        
+    },
+    "devDependencies": {
+       
+    }
+}
